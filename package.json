@@ -1,5 +1,5 @@
 {
-  "name": "aragon-api-test",
+  "name": "aragon-api-temp",
   "version": "0.0.1",
-  "description": "Aragon API for test purposes"
+  "description": "Temporary push of aragon-api subdirectory from experimental branch of @aragon/aragon.js"
 }
